@@ -77,7 +77,3 @@ This project is deployed on **Streamlit Cloud**:
 
 This project is open-source and available for educational purposes.
 
-```
-
-Do you also want me to include a **screenshot** section in the README (with your app screenshot like the one you shared)?
-```
