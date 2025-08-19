@@ -118,12 +118,7 @@
       <input type="submit" value="Get Weather" />
     </form>
 
-    <div id="weather-data">
-      <div class="icon"></div>
-      <div class="temperature"></div>
-      <div class="description"></div>
-      <div class="details"></div>
-    </div>
+   
   </div>
 
   <script>
@@ -183,11 +178,6 @@
         weatherDataEl.querySelector(".details").innerHTML = "";
       }
     }
-
-    // Optional: Load default city on page load
-    window.addEventListener("load", () => {
-      getWeatherData("Guntur");
-    });
   </script>
 </body>
 </html>
